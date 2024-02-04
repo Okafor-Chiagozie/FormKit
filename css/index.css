@@ -64,6 +64,10 @@ body {
    display: flex;
 }
 
+.mainDiv .firstDiv .mainSection .logoSec>h1>i {
+   overflow: hidden;
+}
+
 .mainDiv .firstDiv .mainSection .formHeading {
    flex-direction: column;
 }
